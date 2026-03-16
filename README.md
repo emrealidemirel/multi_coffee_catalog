@@ -32,7 +32,7 @@ Emulator: **Pixel 9 Android Emulator**
 
 #### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/main.png)
 
 #### Product Detail
 
@@ -75,25 +75,6 @@ Bu proje Flutter'ın temel kavramlarını öğrenmek amacıyla hazırlanmıştı
 
 Flutter Version: **3.32.0**
 Emulator: **Pixel 9 Android Emulator**
-
-### Ekran Görüntüleri
-
-#### Ana Sayfa
-
-![Home](screenshots/home.png)
-
-#### Ürün Detay
-
-![Detail](screenshots/detail.png)
-
-
-#### Sepet Sayfası (Boş)
-
-![Cart](screenshots/cart_empty.png)
-
-#### Sepet Sayfası
-
-![Cart](screenshots/cart.png)
 
 ---
 
